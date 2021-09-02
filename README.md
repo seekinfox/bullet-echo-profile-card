@@ -1,16 +1,16 @@
 # bullet-echo-profile-card
 
-#summery
+# summery
 
 made for fun !!
 
 if need one just fork it in your repository or dm me on discord!
 
-#Owner
+# Owner
 
-![live page]()
+![https://seekinfox.github.io/bullet-echo-profile-card/](https://seekinfox.github.io/bullet-echo-profile-card/)
 
 !discord-id Seekinfox@7465:
 
-![CodePen](https://codepen.io/seekinfox/)
+![CodePen@Seekinfox](https://codepen.io/seekinfox/)
 
